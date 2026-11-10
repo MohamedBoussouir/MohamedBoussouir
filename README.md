@@ -10,7 +10,7 @@
   <a href="mailto:mohamedboussouir12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%C3%A9crire-30363D?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335"></a>
   <a href="https://www.linkedin.com/in/mohamedboussouir/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohamedboussouir-30363D?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2"></a>
   <a href="https://github.com/MohamedBoussouir"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohamedBoussouir-30363D?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF"></a>
-  <a href="assets/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-t%C3%A9l%C3%A9charger-30363D?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=FF3B30"></a>
+  <a href="assets/CV-Mohammed-Boussouir-Full-Stack.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-t%C3%A9l%C3%A9charger-30363D?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=FF3B30"></a>
 </p>
 
 ## Salut 👋
