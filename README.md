@@ -109,16 +109,16 @@ Mon stage chez **Ouahda Solutions** m'a fait passer du code au terrain : j'y ai 
   </a>
 </p>
 
-<details>
+<details markdown="1">
 <summary><b>Et quelques autres projets…</b></summary>
 
 <br>
 
 | Projet | En deux mots | Stack |
 | :-- | :-- | :-- |
-| **[SportConnect Pro](https://github.com/MohamedBoussouir/SportConnect_Pro)** | Plateforme web sportive : profils, annonces et tableau de bord | `Express` `EJS` `PostgreSQL` |
+| **[SportConnect&nbsp;Pro](https://github.com/MohamedBoussouir/SportConnect_Pro)** | Plateforme web sportive : profils, annonces et tableau de bord | `Express` `EJS` `PostgreSQL` |
 | **[PayFlow](https://github.com/MohamedBoussouir/PayFlow_api)** | API de paiement avec authentification par token | `Laravel 12` `Sanctum` `MySQL` |
-| **[E-commerce MVC](https://github.com/MohamedBoussouir/application_web_e_commerce_MVC)** | Boutique en ligne en PHP MVC, sans framework | `PHP` `MySQL` |
+| **[E-commerce&nbsp;MVC](https://github.com/MohamedBoussouir/application_web_e_commerce_MVC)** | Boutique en ligne en PHP MVC, sans framework | `PHP` `MySQL` |
 | **[TeamUp.gg](https://github.com/MohamedBoussouir/TeamUp.gg)** | Trouver des coéquipiers et des annonces e-sport | `HTML` `CSS` `JavaScript` |
 | **[Jeu de réflexes](https://github.com/MohamedBoussouir/Application-Web-de-R-flexes-et-Pr-cision)** | Mini-jeu web pour mesurer temps de réaction et précision | `JavaScript` |
 
